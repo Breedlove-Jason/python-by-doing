@@ -1,0 +1,2 @@
+Reminder: review Python file handling chapter.
+Practice with os and pathlib examples.

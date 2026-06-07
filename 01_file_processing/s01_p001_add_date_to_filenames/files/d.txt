@@ -1,0 +1,2 @@
+Project idea: build a small CLI tool to rename files in bulk.
+Keep it simple and use pathlib.

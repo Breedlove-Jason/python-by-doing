@@ -1,0 +1,4 @@
+Temperature log:
+Morning: 62F
+Afternoon: 74F
+Evening: 68F
