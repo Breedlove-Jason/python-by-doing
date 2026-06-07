@@ -1,15 +1,19 @@
 # Project 001: Add Date to Filenames
 
 ## Course
+
 Learn Python by Doing with 100 Projects
 
 ## Section
+
 Section 01: File Processing
 
 ## Project Type
+
 Tutorial
 
 ## What This Project Does
+
 Describe what this project does in 2-3 sentences.
 
 ## Concepts Practiced
@@ -41,19 +45,19 @@ output/
 
 ## What I Learned
 
-*
+-
 
 ## Bugs / Problems
 
-*
+-
 
 ## Portfolio Upgrade Ideas
 
-* Add command-line arguments
-* Add dry-run mode
-* Add logging
-* Add tests
-* Add better error handling
+- Add command-line arguments
+- Add dry-run mode
+- Add logging
+- Add tests
+- Add better error handling
 
 ## Status
 
